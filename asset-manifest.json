@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/klocal/static/css/main.9bd7a35e.css",
+    "main.js": "/klocal/static/js/main.18781633.js",
+    "index.html": "/klocal/index.html",
+    "main.9bd7a35e.css.map": "/klocal/static/css/main.9bd7a35e.css.map",
+    "main.18781633.js.map": "/klocal/static/js/main.18781633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.18781633.js"
+  ]
+}
